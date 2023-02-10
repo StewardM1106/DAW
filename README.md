@@ -1,7 +1,7 @@
 # Ejemplo de pagina  WEB Hola mundo
 
 # imagen 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![Texto alternativo]([/ruta/a/la/imagen.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Aquiles_Alvarez_Henriques.jpg/1200px-Aquiles_Alvarez_Henriques.jpg))
 
 Encabezados 
 # Encabezado 1
