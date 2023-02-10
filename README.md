@@ -8,10 +8,7 @@
 
 ## Resultados 
 
-Tablas 
 | Candidato | Votos   |
-
-| ------- | -------- |
 
 | Aquiles Alvarez  | 551, 996   |
 | Cinthia Viteri   | 420, 208   |
